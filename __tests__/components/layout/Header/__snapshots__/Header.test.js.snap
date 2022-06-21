@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render Header component 1`] = `
+<DocumentFragment>
+  <header
+    class="appHeader"
+  >
+    <h1
+      class="appTitle"
+    >
+      mock text
+    </h1>
+    <a
+      class="headerLink"
+      href="/"
+    >
+      mock text
+    </a>
+    <a
+      class="headerLink"
+      href="/about"
+    >
+      mock text
+    </a>
+    <button
+      class="toggleLanguage"
+      data-testid="toggle-language-button"
+      type="button"
+    >
+      en
+    </button>
+  </header>
+</DocumentFragment>
+`;

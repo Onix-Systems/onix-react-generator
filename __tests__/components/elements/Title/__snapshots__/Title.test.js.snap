@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Title /> should render Title component 1`] = `
+<DocumentFragment>
+  <h1
+    class="appTitle"
+  >
+    mock title
+  </h1>
+</DocumentFragment>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Film /> should render Film component 1`] = `
+<DocumentFragment>
+  <div>
+    <p>
+      mock film title
+    </p>
+    <img
+      alt="mock film title"
+      class="appBanner"
+      src="mock film poster"
+    />
+  </div>
+</DocumentFragment>
+`;

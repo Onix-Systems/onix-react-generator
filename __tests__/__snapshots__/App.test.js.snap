@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render App component 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <header
+      class="appHeader"
+    >
+      <h1
+        class="appTitle"
+      >
+        Try to build something great
+      </h1>
+      <a
+        class="headerLink"
+        href="/"
+      >
+        Home
+      </a>
+      <a
+        class="headerLink"
+        href="/about"
+      >
+        About
+      </a>
+      <button
+        class="toggleLanguage"
+        data-testid="toggle-language-button"
+        type="button"
+      >
+        en
+      </button>
+    </header>
+    <div>
+      <p
+        class="appIntro"
+      >
+        Home page
+      </p>
+      <p>
+        mock data
+      </p>
+      <button
+        class="updateJoke"
+        data-testid="button"
+        type="button"
+      >
+        New joke
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomeView /> should render HomeView component 1`] = `
+<DocumentFragment>
+  <div>
+    <p
+      class="appIntro"
+    >
+      Home page
+    </p>
+    <p>
+      mock information
+    </p>
+    <button
+      class="updateJoke"
+      data-testid="button"
+      type="button"
+    >
+      New joke
+    </button>
+  </div>
+</DocumentFragment>
+`;
